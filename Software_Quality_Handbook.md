@@ -4,7 +4,9 @@ Testing is vital within software engineering for ensuring a program fulfils itsâ
 
 Some general guidelines for ensuring code quality through testing are as follows:
 
-\-     Test one thing at a time. Tests should be as granular as possible. This ensures that what you are testing will not be disrupted by other methods which are the cause of error. Testing should begin with the most granular section, with the least dependencies. ![img](file:///C:/Users/Darren/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+\-     Test one thing at a time. Tests should be as granular as possible. This ensures that what you are testing will not be disrupted by other methods which are the cause of error. Testing should begin with the most granular section, with the least dependencies. 
+
+<img src="images/TheTestingPyramid.png"     alt="The Testing Pyramid"     style="float: left; margin-right: 10px;" />
 
  
 
@@ -20,7 +22,9 @@ Some general guidelines for ensuring code quality through testing are as follows
 
  
 
-Testing granularity: https://martinfowler.com/articles/practical-test-pyramid.html
+Testing granularity: https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all
+
+ https://martinfowler.com/articles/practical-test-pyramid.html
 
 Edge Cases: https://www.mindfulqa.com/edge-cases/
 
@@ -38,7 +42,7 @@ https://www.geeksforgeeks.org/difference-between-sanity-testing-and-regression-t
 **Task Estimation in Scrum**
 
 Task estimation is a crucial Scrum procedure that aids the team in efficiently planning and monitoring their work. It involves teams estimating how much time tasks will need to be completed and divides the larger tasks into smaller ones. Task estimation aids in the team's development of a realistic Sprint plan, early detection of potential obstacles or dependencies, and transparency regarding the work that needs to be done.
- 
+
 https://www.tothenew.com/blog/how-to-estimate-story-points-in-agile/
 
 Planning Poker
@@ -54,7 +58,7 @@ The general steps to follow to use Planning Poker effectively include:
 -	Continue until a decision is reached.
 
 Some of the main challenges involved in Planning Poker are allowing team members to dominate the discussion and rushing the final descion and not taking the time to reconcile different estimates. 
- 
+
 https://blog.moove-it.com/asynchronous-planning-poker-estimations/
 
 Benefits and Limitations
