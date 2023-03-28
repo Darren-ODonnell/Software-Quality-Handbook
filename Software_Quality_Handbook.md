@@ -43,7 +43,7 @@ https://www.geeksforgeeks.org/difference-between-sanity-testing-and-regression-t
 
 Task estimation is a crucial Scrum procedure that aids the team in efficiently planning and monitoring their work. It involves teams estimating how much time tasks will need to be completed and divides the larger tasks into smaller ones. Task estimation aids in the team's development of a realistic Sprint plan, early detection of potential obstacles or dependencies, and transparency regarding the work that needs to be done.
 
-https://www.tothenew.com/blog/how-to-estimate-story-points-in-agile/
+<img src="images/Story-Points-and-task-hour-estimation-process.jpg"     alt="Story Points and task hour estimation process"     style="float: left; margin-right: 10px;" />
 
 Planning Poker
 
@@ -59,7 +59,7 @@ The general steps to follow to use Planning Poker effectively include:
 
 Some of the main challenges involved in Planning Poker are allowing team members to dominate the discussion and rushing the final descion and not taking the time to reconcile different estimates. 
 
-https://blog.moove-it.com/asynchronous-planning-poker-estimations/
+<img src="images/estimates.jpg"     alt="Estimates"     style="float: left; margin-right: 10px;" />
 
 Benefits and Limitations
 
