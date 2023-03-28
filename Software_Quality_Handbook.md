@@ -20,7 +20,31 @@ Some general guidelines for ensuring code quality through testing are as follows
 
 \-     Make sure to do quick sanity checks before kicking off a long-winded regression test. These should also be done at night so they don’t eat into your working hours.
 
- 
+As code gets tested it's important that there are testing guidelines. We recommend that the development team should not be the only ones testing their software.
+
+As they developed the software they are more likely to overlook issues and bugs that they created rather than a testing team that focuses on trying to break the features. 
+
+Testing should also be done as early as possible, problems can be spotted earlier before they are built on or before deadlines are reached. 
+
+An important stage in testing is performing integration testing. As new code is added to the software it has to be tested for existing components. 
+
+We want to make sure that this new component being added does not break the functionality of other components. This testing is done to ensure that this new code can work with existing components. Testing should be focused on the aspects that they are validating.
+
+As developing tests don't focus on the main features that are meant to be validated, this leaves less time to focus on the main component that was developed. 
+
+This can cause issues as problems in the code might not be spotted while you are looking at aspects of code that are not being focused on. 
+As these aspects are more critical than other aspects of code, more focus needs to be placed there. 
+
+The way we tested new features also needs to be looked at. As we want to make sure that we do not have obsolete functionality in the way we test code. 
+
+As if the testing methods that we use are no longer up to date, this can leave problems to go undetected. This could cause the whole testing period to be pointless if allowed to happen. So we need to keep on our toes to spot these problems before they happen.
+
+Lastly we need to ensure that we need to do mock testing. This is where we replace dependent objects with mock objects. 
+
+These mock objects simulate real objects and behave the same way. The advantage of using mock objects is that we can make changes to them that will not affect the database or codebase. 
+
+This is advantageous as we can test scenarios that we would not have been able to do before. It also allows easier debugging as we can see when these methods will only be called in the testing phase so are easier to keep track of. 
+
 
 Testing granularity: https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all
 
