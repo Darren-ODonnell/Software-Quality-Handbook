@@ -92,3 +92,25 @@ https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/
 https://doasync.com/blog/8-agile-estimation-mistakes-to-avoid/
 
 https://core.ac.uk/download/pdf/84071282.pdf
+
+
+**Code Review**
+
+Code review is when peers review others' code to improve quality, help developers learn and detect bugs. These code reviews are important as they offer both the developer and the reviewer a chance to learn. It can let them learn from their mistakes and also keep the code of the project consistent with what is already in the codebase.
+
+A good code review can be helpful for many reasons.If there are high standards of coding in the development team, it can allow developers to reuse code. This code reuse can be highly productive as it can save time allowing developers to focus on other aspects.
+
+A code review should also have a checklist. This checklist should cover a variety of different topics such as, does it meet the requirements or is there documentation or is the code maintainable. This checklist makes it so all aspects are looked at in the code review
+
+Having a good tool allows code reviews to be done easier and allows the same techniques to be used each time. An example of a tool would be GitHub.
+
+You can use pull requests that have to be reviewed and approved by a team member where they can provide feedback on your code. It also allows the developer to write a document outlining what exactly the code does, what the changes are and what outcome should happen from these changes.
+
+One of the most important things about code reviews is about fixing the issues that come up during it. These issues could range from small issues such as formatting code the wrong way to having to redo the entire process again. 
+
+It's important that from this the developer is shown why these mistakes happened and try to help them avoid this in the future. Setting up meetings to go over these issues in further detail is a good idea to help paint a clear picture for the developer.
+
+https://www.codereviewchecklist.com/
+https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers
+https://blog.jetbrains.com/space/2021/12/15/best-code-review-tools/
+
