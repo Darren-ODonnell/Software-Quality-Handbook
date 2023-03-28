@@ -6,7 +6,7 @@ Some general guidelines for ensuring code quality through testing are as follows
 
 \-     Test one thing at a time. Tests should be as granular as possible. This ensures that what you are testing will not be disrupted by other methods which are the cause of error. Testing should begin with the most granular section, with the least dependencies. 
 
-<img src="images/TheTestingPyramid.png"     alt="The Testing Pyramid"     style="float: left; margin-right: 10px;" />
+<img src="images/TheTestingPyramid.jpg"     alt="The Testing Pyramid"     style="float: left; margin-right: 10px;" />
 
  
 
@@ -20,7 +20,7 @@ Some general guidelines for ensuring code quality through testing are as follows
 
 \-     Make sure to do quick sanity checks before kicking off a long-winded regression test. These should also be done at night so they don’t eat into your working hours.
 
- 
+
 
 Testing granularity: https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all
 
