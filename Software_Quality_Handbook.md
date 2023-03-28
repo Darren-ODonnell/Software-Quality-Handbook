@@ -6,7 +6,7 @@ Some general guidelines for ensuring code quality through testing are as follows
 
 \-     Test one thing at a time. Tests should be as granular as possible. This ensures that what you are testing will not be disrupted by other methods which are the cause of error. Testing should begin with the most granular section, with the least dependencies. 
 
-<img src="images/TheTestingPyramid.png"     alt="The Testing Pyramid"     style="float: left; margin-right: 10px;" />
+<img src="images/TheTestingPyramid.jpg"     alt="The Testing Pyramid"     style="float: left; margin-right: 10px;" />
 
  
 
@@ -20,6 +20,7 @@ Some general guidelines for ensuring code quality through testing are as follows
 
 \-     Make sure to do quick sanity checks before kicking off a long-winded regression test. These should also be done at night so they don’t eat into your working hours.
 
+<<<<<<< HEAD
 As code gets tested it's important that there are testing guidelines. We recommend that the development team should not be the only ones testing their software.
 
 As they developed the software they are more likely to overlook issues and bugs that they created rather than a testing team that focuses on trying to break the features. 
@@ -44,6 +45,8 @@ Lastly we need to ensure that we need to do mock testing. This is where we repla
 These mock objects simulate real objects and behave the same way. The advantage of using mock objects is that we can make changes to them that will not affect the database or codebase. 
 
 This is advantageous as we can test scenarios that we would not have been able to do before. It also allows easier debugging as we can see when these methods will only be called in the testing phase so are easier to keep track of. 
+=======
+>>>>>>> taskEstimationBranch
 
 
 Testing granularity: https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all
@@ -67,7 +70,7 @@ https://www.geeksforgeeks.org/difference-between-sanity-testing-and-regression-t
 
 Task estimation is a crucial Scrum procedure that aids the team in efficiently planning and monitoring their work. It involves teams estimating how much time tasks will need to be completed and divides the larger tasks into smaller ones. Task estimation aids in the team's development of a realistic Sprint plan, early detection of potential obstacles or dependencies, and transparency regarding the work that needs to be done.
 
-https://www.tothenew.com/blog/how-to-estimate-story-points-in-agile/
+<img src="images/Story-Points-and-task-hour-estimation-process.jpg"     alt="Story Points and task hour estimation process"     style="float: left; margin-right: 10px;" />
 
 Planning Poker
 
@@ -83,7 +86,7 @@ The general steps to follow to use Planning Poker effectively include:
 
 Some of the main challenges involved in Planning Poker are allowing team members to dominate the discussion and rushing the final descion and not taking the time to reconcile different estimates. 
 
-https://blog.moove-it.com/asynchronous-planning-poker-estimations/
+<img src="images/estimates.jpg"     alt="Estimates"     style="float: left; margin-right: 10px;" />
 
 Benefits and Limitations
 
