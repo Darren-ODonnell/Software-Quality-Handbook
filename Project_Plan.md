@@ -124,4 +124,18 @@
 
 \-     Mock other aspects of the test which are not directly being tested currently
 
+
+
+**Retrospective Analysis**
+
+Our plan was good, but I think more emphasis could've gone into the design of the document.
+
+We made some mistakes towards the beginning of the project that added some bulk to the commit history, this could've been avoided.
+
+A time-schedule would've made this process more straight-forward. If we had soft deadlines for sections to be completed, we could make more efficient progress and would have had more time to polish the document at the end.
+
+Regular check-in meetings to see if there are any issues that can be resolved by the team.
+
+A general branch naming convention might have been useful
+
  
